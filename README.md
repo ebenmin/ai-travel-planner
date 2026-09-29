@@ -1,6 +1,8 @@
 # AI Travel Planner
 
-An AI-powered trip planning app that generates a personalized, day-by-day itinerary based on your destination, budget, trip style, and interests — then lets you save it for later.
+An AI-powered trip planning app that generates a personalized, day-by-day itinerary based on your destination, budget, trip style, and interests — then lets you save it for later
+
+🔗 **Live demo:** [ai-travel-planner-h9b3c7htabhcefat.southafricanorth-01.azurewebsites.net](ai-travel-planner-h9b3c7htabhcefat.southafricanorth-01.azurewebsites.net)
 
 🔗 **Live demo:** [](your-url-here)
 
