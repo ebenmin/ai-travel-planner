@@ -4,7 +4,7 @@ An AI-powered trip planning app that generates a personalized, day-by-day itiner
 
 🔗 **Live demo:** [ai-travel-planner-h9b3c7htabhcefat.southafricanorth-01.azurewebsites.net](ai-travel-planner-h9b3c7htabhcefat.southafricanorth-01.azurewebsites.net)
 
-🔗 **Live demo:** [](your-url-here)
+
 
 ## Features
 
