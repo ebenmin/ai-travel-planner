@@ -2,6 +2,8 @@
 
 An AI-powered trip planning app that generates a personalized, day-by-day itinerary based on your destination, budget, trip style, and interests — then lets you save it for later.
 
+🔗 **Live demo:** [](your-url-here)
+
 ## Features
 
 - 🧳 **Personalized itinerary generation** — powered by Google's Gemini API, factoring in destination, departure point, trip duration, budget, travel companions, trip type, and selected attractions
